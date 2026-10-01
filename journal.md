@@ -34,7 +34,17 @@ how it works: when a side's main arm goes up it pushes on the tie rod , which ro
 this  ensures that all 6 wheels stay in contact with the ground at any moment.
 but i failed , i couldnt get the tie rod to connect without colliding with the bogie arm , so i got frustrated and decided to switch to some different type of differential bar.
 
-## 30 SEPTEMBER
+## 30 SEPTEMBER:DIFFERENTIAL SYSTEM DONE!
+after the failed attempt of making the nose diff system i went on to research about other diff systems , then i found the SAWPPY differential system , instead of having a separate mount for tie rod , we can use the rotation of the main arm at pivot and rigid join the tie rod to the main arm at pivot , so now when the main arm rock back and forth the tie rod pulls and pushes the differential bar! , and by shifting the differential bar from nose to top we get a fully functional differential
+this small clip helped me alot-
+[![Watch the Video](https://img.youtube.com/vi/J39RfHOFodM/maxresdefault.jpg)](https://www.youtube.com/watch?v=J39RfHOFodM)
+now that i have a reference i can make it!!, from here on things went smooth and i had my whole differential up and working-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c5ce087-6cfc-47e1-942f-ab4be8b0c95c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d0fb04c-ab6e-4f91-a605-7af68e295795" />
+its sooo satisfying to watch it moveeee.
+next im planing to do motor and wheelsssss.
+
+
 
 
 
